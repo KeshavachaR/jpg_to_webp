@@ -25,3 +25,7 @@ Feel free to submit issues, suggestions, or pull requests. For substantial chang
 
 Contact
 For any questions or feedback, please contact keshavachari.swarna@gmail.com.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
